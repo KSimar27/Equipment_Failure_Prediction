@@ -1,0 +1,6 @@
+com\crane\predictor\model\PredictionResponse.class
+com\crane\predictor\service\PredictionService.class
+com\crane\predictor\model\StrainDataPoint.class
+com\crane\predictor\model\Interval.class
+com\crane\predictor\controller\PredictionController.class
+com\crane\predictor\EquipmentPredictorApplication.class
